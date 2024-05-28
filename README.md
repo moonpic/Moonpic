@@ -1,4 +1,3 @@
-# The Start Of My Coding Adventure
 ## About Me
 <div align="center">
     <a href="https://github.com/Imaguy0">
